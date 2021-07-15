@@ -1,5 +1,5 @@
 body{
-    background: turquoise;
+    background: url("imggrad.png");
     display: flex;
     justify-content: center;
     align-items: center;
